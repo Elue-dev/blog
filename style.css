@@ -336,6 +336,7 @@ a.btn-content{
     border-radius: 50%;
     border: 2px solid rgb(184, 31, 31);
     border-color: rgb(184, 31, 31);
+    object-fit: cover;
 }
 
 .hquotes{
